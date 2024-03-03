@@ -1,7 +1,7 @@
 
 # 🌟 Welcome to my domain! ✨
 
-![]([https://your-anime-avatar-url.com](https://github.com/Abubakar17/Abubakar17/blob/main/anime%20gif.gif))
+![](https://your-anime-avatar-url.com](https://github.com/Abubakar17/Abubakar17/blob/main/anime%20gif.gif))
 
 👋 I'm Abubakar, your guide to a fantastical journey through the realms of code and creativity. Join me as we embark on an adventure beyond the ordinary!
 
@@ -24,7 +24,8 @@ I'm a coding sorcerer with a passion for crafting spells with Python incantation
 
 ## 🌈 Let's Connect!
 
-📫 If you're on a quest for collaboration or just want to chat about the latest anime releases, send a raven to my [GitHub Lair](https://github.com/Abubakar17) or summon me through the magical portals of [LinkedIn]([https://www.linkedin.com/in/s-m-abubakar/]).
+📫 If you're on a quest for collaboration or just want to chat about the latest anime releases, send a raven to my [GitHub Lair](https://github.com/Abubakar17) or summon me through the magical portals of [LinkedIn](https://www.linkedin.com/in/s-m-abubakar/).
+
 
 🌟 May your code be bug-free and your adventures be legendary! Arigatou gozaimasu! 🌟
 
