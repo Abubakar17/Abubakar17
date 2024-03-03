@@ -1,10 +1,9 @@
 
-# 🌟 Welcome to my domain! ✨
+#                                     🌟 Welcome to my domain! ✨
 
 <p align="center">
     <img src="https://github.com/Abubakar17/Abubakar17/blob/main/anime%20gif.gif" alt="Anime GIF">
 </p>
-
 
 👋 I'm Abubakar, your guide to a fantastical journey through the realms of code and creativity. Join me as we embark on an adventure beyond the ordinary!
 
@@ -22,7 +21,7 @@ I'm a coding sorcerer with a passion for crafting spells with Python incantation
 
 ## 🌟 My Powers
 
-- **Sorcerer of Scripts:** Expert in Python sorcery, brewing potions with TensorFlow, Flask, and Django.
+- **Sorcerer of Scripts:** Expert in Python sorcery, brewing potions with TensorFlow and Pytorch.
 - **Mage of Machine Learning:** Harnessing the power of neural networks and deep learning to unlock the secrets of data.
 
 ## 🌈 Let's Connect!
