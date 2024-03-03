@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 🌟 Welcome to my domain! ✨
 
-![Anime Character]([https://your-anime-avatar-url.com](https://github.com/Abubakar17/Abubakar17/blob/main/anime%20gif.gif))
+![]([https://your-anime-avatar-url.com](https://github.com/Abubakar17/Abubakar17/blob/main/anime%20gif.gif))
 
 👋 I'm Abubakar, your guide to a fantastical journey through the realms of code and creativity. Join me as we embark on an adventure beyond the ordinary!
 
