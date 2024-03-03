@@ -1,6 +1,6 @@
-<p align="center">
-    # 🌟 Welcome to my domain! ✨
-</p>
+<h align="center">
+    🌟 Welcome to my domain! ✨
+</h>
 
 <p align="center">
     <img src="https://github.com/Abubakar17/Abubakar17/blob/main/anime%20gif.gif" alt="Anime GIF">
