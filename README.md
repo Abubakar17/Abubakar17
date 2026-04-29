@@ -11,7 +11,7 @@
   <a href="https://github.com/Abubakar17"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
   <a href="https://www.linkedin.com/in/s-m-abubakar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:syedabubakar03@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
-  <a href="https://abubakar17.github.io/My_site/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+  <a href="https://abubakar17.github.io/Syed-Abubakar-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 </p>
 
 <p align="center">
