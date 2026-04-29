@@ -33,10 +33,6 @@ I work at the intersection of:
 Machine Learning × Systems × Optimization
 
 ````
-
-I don’t just train models — I design **end-to-end systems** that integrate  
-data, algorithms, and deployment into real-world solutions.
-
 ---
 
 ## ⚡ Engineering Experience
@@ -46,8 +42,6 @@ data, algorithms, and deployment into real-world solutions.
 - Developed **LLM-powered analytics (Fabric platform)**  
 - Designed **Active Learning pipeline → MICCAI 2025 submission**  
 - Led **MLOps systems (Docker, MLflow, CI/CD)**  
-
----
 
 ### METI IT Intern — Japan 🇯🇵
 - Optimized embedded systems → **+30% efficiency**  
@@ -63,13 +57,9 @@ data, algorithms, and deployment into real-world solutions.
 - **3mm positional / 1.5° angular accuracy**  
 - Stack: PyTorch, ROS2, Open3D  
 
----
-
 ### 🔹 ChatWithPDFs (RAG System)
 - Conversational AI with LangChain + Gemini  
 - **40% faster queries, ~95% accuracy**
-
----
 
 ### 🔹 Fish Biomass Estimation (Research)
 - YOLOv8 + Depth models + GNNs  
@@ -88,8 +78,6 @@ data, algorithms, and deployment into real-world solutions.
 ![MATLAB](https://img.shields.io/badge/MATLAB-000?style=flat)
 ![Bash](https://img.shields.io/badge/Bash-000?style=flat&logo=gnubash)
 
----
-
 ### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat&logo=tensorflow)
@@ -100,8 +88,6 @@ data, algorithms, and deployment into real-world solutions.
 ![RAG](https://img.shields.io/badge/RAG-000?style=flat)
 ![GANs](https://img.shields.io/badge/GANs-000?style=flat)
 
----
-
 ### Cloud, MLOps & Backend
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
 ![MLflow](https://img.shields.io/badge/MLflow-000?style=flat)
@@ -110,8 +96,6 @@ data, algorithms, and deployment into real-world solutions.
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-000?style=flat&logo=amazonaws)
 ![CI/CD](https://img.shields.io/badge/CI/CD-000?style=flat)
 
----
-
 ### Systems, Robotics & Embedded
 ![ROS2](https://img.shields.io/badge/ROS2-000?style=flat)
 ![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-000?style=flat&logo=nvidia)
@@ -119,8 +103,6 @@ data, algorithms, and deployment into real-world solutions.
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
 ![IoT](https://img.shields.io/badge/IoT-000?style=flat)
 ![Embedded Systems](https://img.shields.io/badge/Embedded-000?style=flat)
-
----
 
 ### Data & Tools
 ![NumPy](https://img.shields.io/badge/NumPy-000?style=flat&logo=numpy)
@@ -143,14 +125,6 @@ data, algorithms, and deployment into real-world solutions.
 
 ---
 
-## 📌 Current Focus
-
-* Traffic Modeling → **CTM vs METANET + ALINEA / PI Control**
-* ML Systems Design & Deployment
-* Real-world Optimization Problems
-
----
-
 ## 🏆 Recognition
 
 * 🎓 Erasmus Mundus Scholarship (European Commission) 
@@ -165,13 +139,6 @@ data, algorithms, and deployment into real-world solutions.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Abubakar17&theme=dark&hide_border=true">
 </p>
-
----
-
-## 📫 Reach Out
-
-* [LinkedIn](https://www.linkedin.com/in/s-m-abubakar/)
-* [Email](syedabubakar03@yahoo.com)
 
 ---
 
