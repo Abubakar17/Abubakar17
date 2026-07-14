@@ -4,7 +4,7 @@
 <h1 align="center">Syed Muhammad Abubakar</h1>
 
 <p align="center">
-  <b>Systems Engineer • Machine Learning Engineer • Incoming Google Intern 🇧🇪</b>
+  <b>Systems Engineer • Machine Learning Engineer • Google Intern 🇧🇪</b>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ## 🧠 Profile
 
 - 🎓 **Erasmus Mundus Scholar** — Systems Engineering (SoSE) 
-- 🇧🇪 Incoming **Data Center Intern @ Google (Summer 2026)**  
+- 🇧🇪 **Data Center Intern @ Google (Summer 2026)**  
 - 💡 Background in **Electrical Engineering (Distinction)** 
 
 I work at the intersection of:
