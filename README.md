@@ -2,7 +2,7 @@
 
 **ML engineer who ships the whole pipeline: data → model → deployed app.**
 
-MSc Computer Engineering @ University of Genoa · Erasmus Mundus scholar (Sustainable Systems Engineering) · BSc Electrical Engineering, NUST (Distinction)
+MSc Computer Engineering @ University of Genoa · xIntern @ Google · Erasmus Mundus scholar (Sustainable Systems Engineering) · BSc Electrical Engineering, NUST (Distinction)
 
 📍 Genoa, Italy · Open to **ML / software engineering internships** and a **master's thesis placement** across the EU
 
