@@ -17,7 +17,7 @@ MSc Computer Engineering @ University of Genoa · xIntern @ Google · Erasmus Mu
 | [**LiDAR 6-DoF Pose Estimation**](https://github.com/Abubakar17/lidar_pose_estimation) | Team project: estimates object pose from a vertical LiDAR scan with deep learning. **< 3 mm position / < 1.5° rotation error.** | PyTorch · ROS 2 · Open3D |
 | [**GroupChat Karaoke**](https://github.com/Abubakar17/karaoke) | Aligns voice notes from different singers onto one backing track and mixes them. Source separation + chroma cross-correlation + DTW. | Demucs · FastAPI · Canvas |
 | [**Finger Magic**](https://github.com/Abubakar17/spidey-cam) | Real-time AR in the browser: hand gestures drive WebGL2 shader effects, no install. | MediaPipe · WebGL2 · JS |
-| [**Fish Biomass Estimation**](https://github.com/Abubakar17/FYP-reports-Fish-Biomass-Estimation) | Final-year research: fish detection + monocular depth + GNN regression. **98% accuracy**, paper submitted to *ICES Journal of Marine Science*. | YOLOv8 · Depth Anything · GNNs |
+| [**Fish Biomass Estimation**](https://github.com/Abubakar17/FYP-reports-Fish-Biomass-Estimation) | Final-year research (co-author): species, size and mass from single-camera underwater video via monocular depth, detection and tracking. **97.5% detection F1, 96.3% species accuracy**; paper submitted to *ICES Journal of Marine Science*. | YOLOv8 · U-Net (self-attention) · Tracking |
 | [**Chat with PDFs**](https://github.com/Abubakar17/Chat_With_PDFS) | Conversational RAG over documents, comparing three retrieval strategies. | LangChain · Gemini |
 
 <!-- Add your CLIP/SigLIP semantic image search project here as the top row once it's public — it's your strongest ML-engineering signal. -->
