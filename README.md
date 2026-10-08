@@ -11,7 +11,7 @@
 📍 Genoa, Italy · 🎯 Open to **ML / SWE internships** and a **master's thesis placement** across the EU
 
 <a href="https://www.linkedin.com/in/s-m-abubakar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://abubakar17.github.io/Syed-Abubakar-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+<a href="https://abubakar17.github.io/Syed-Abubakar-Portfolio-3D/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 <a href="mailto:syedabubakar03@yahoo.com"><img src="https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" /></a>
 
 </div>
