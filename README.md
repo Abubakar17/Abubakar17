@@ -1,163 +1,47 @@
+# Syed Muhammad Abubakar
 
-<!-- ======================= HERO ======================= -->
+**ML engineer who ships the whole pipeline: data → model → deployed app.**
 
-<h1 align="center">Syed Muhammad Abubakar</h1>
+MSc Computer Engineering @ University of Genoa · Erasmus Mundus scholar (Sustainable Systems Engineering) · BSc Electrical Engineering, NUST (Distinction)
 
-<p align="center">
-  <b>Systems Engineer • Machine Learning Engineer • Google Intern 🇧🇪</b>
-</p>
+📍 Genoa, Italy · Open to **ML / software engineering internships** and a **master's thesis placement** across the EU
 
-<p align="center">
-  <a href="https://github.com/Abubakar17"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/s-m-abubakar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:syedabubakar03@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
-  <a href="https://abubakar17.github.io/Syed-Abubakar-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=888888&center=true&vCenter=true&width=600&lines=Building+real-world+ML+systems;Optimization+%26+Control+Enthusiast;From+models+to+deployment;Engineering+at+scale">
-</p>
+[LinkedIn](https://www.linkedin.com/in/s-m-abubakar/) · [Portfolio](https://abubakar17.github.io/Syed-Abubakar-Portfolio/) · [Email](mailto:syedabubakar03@yahoo.com)
 
 ---
 
-## 🧠 Profile
+## Featured projects
 
-- 🎓 **Erasmus Mundus Scholar** — Systems Engineering (SoSE) 
-- 🇧🇪 **Data Center Intern @ Google (Summer 2026)**  
-- 💡 Background in **Electrical Engineering (Distinction)** 
+| Project | What it does | Stack |
+|---|---|---|
+| [**LiDAR 6-DoF Pose Estimation**](https://github.com/Abubakar17/lidar_pose_estimation) | Team project: estimates object pose from a vertical LiDAR scan with deep learning. **< 3 mm position / < 1.5° rotation error.** | PyTorch · ROS 2 · Open3D |
+| [**GroupChat Karaoke**](https://github.com/Abubakar17/karaoke) | Aligns voice notes from different singers onto one backing track and mixes them. Source separation + chroma cross-correlation + DTW. | Demucs · FastAPI · Canvas |
+| [**Finger Magic**](https://github.com/Abubakar17/spidey-cam) | Real-time AR in the browser: hand gestures drive WebGL2 shader effects, no install. | MediaPipe · WebGL2 · JS |
+| [**Fish Biomass Estimation**](https://github.com/Abubakar17/FYP-reports-Fish-Biomass-Estimation) | Final-year research: fish detection + monocular depth + GNN regression. **98% accuracy**, paper submitted to *ICES Journal of Marine Science*. | YOLOv8 · Depth Anything · GNNs |
+| [**Chat with PDFs**](https://github.com/Abubakar17/Chat_With_PDFS) | Conversational RAG over documents, comparing three retrieval strategies. | LangChain · Gemini |
 
-I work at the intersection of:
+<!-- Add your CLIP/SigLIP semantic image search project here as the top row once it's public — it's your strongest ML-engineering signal. -->
 
-```
+## Experience
 
-Machine Learning × Systems × Optimization
+**Data Center Technician Intern — Google** · Belgium · Summer 2026
 
-````
----
+**Machine Learning Engineer — Dcube Technologies**
+- Generative audio system using GANs (96% recall)
+- Active-learning pipeline for medical imaging → MICCAI 2025 submission
+- LLM-powered analytics on Microsoft Fabric
+- MLOps: Docker, MLflow, CI/CD
 
-## ⚡ Engineering Experience
+**IT Intern — METI internship programme, Japan**
+- Embedded-systems optimisation (+30% efficiency)
+- Serverless AWS architecture; distributed device control with ZeroTier + Docker
 
-### Machine Learning Engineer — Dcube Technologies
-- Built **Generative AI audio system (96% recall)** using GANs  
-- Developed **LLM-powered analytics (Fabric platform)**  
-- Designed **Active Learning pipeline → MICCAI 2025 submission**  
-- Led **MLOps systems (Docker, MLflow, CI/CD)**  
+## Tools I use
 
-### METI IT Intern — Japan 🇯🇵
-- Optimized embedded systems → **+30% efficiency**  
-- Built **serverless AWS architectures**  
-- Enabled distributed control via **ZeroTier + Docker**
+- **ML:** PyTorch, TensorFlow, scikit-learn, OpenCV, YOLOv8, LangChain
+- **Engineering:** Python, C++, FastAPI, Docker, MLflow, AWS (Lambda, S3, DynamoDB), Linux
+- **Robotics / embedded:** ROS 2, Open3D, NVIDIA Jetson, Raspberry Pi
 
----
+## Recognition
 
-## 🚀 Selected Work
-
-### 🔹 3D Pose Estimation System (Embedded AI)
-- 6DOF pipeline with LiDAR + deep learning  
-- **3mm positional / 1.5° angular accuracy**  
-- Stack: PyTorch, ROS2, Open3D  
-
-### 🔹 ChatWithPDFs (RAG System)
-- Conversational AI with LangChain + Gemini  
-- **40% faster queries, ~95% accuracy**
-
-### 🔹 Fish Biomass Estimation (Research)
-- YOLOv8 + Depth models + GNNs  
-- **98% accuracy**  
-- Paper submitted (ICES Journal)  
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=flat&logo=cplusplus)
-![MATLAB](https://img.shields.io/badge/MATLAB-000?style=flat)
-![Bash](https://img.shields.io/badge/Bash-000?style=flat&logo=gnubash)
-
-### Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-000?style=flat)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000?style=flat&logo=scikitlearn)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-000?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-000?style=flat)
-![RAG](https://img.shields.io/badge/RAG-000?style=flat)
-![GANs](https://img.shields.io/badge/GANs-000?style=flat)
-
-### Cloud, MLOps & Backend
-![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker)
-![MLflow](https://img.shields.io/badge/MLflow-000?style=flat)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-000?style=flat&logo=amazonaws)
-![Amazon S3](https://img.shields.io/badge/S3-000?style=flat&logo=amazonaws)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-000?style=flat&logo=amazonaws)
-![CI/CD](https://img.shields.io/badge/CI/CD-000?style=flat)
-
-### Systems, Robotics & Embedded
-![ROS2](https://img.shields.io/badge/ROS2-000?style=flat)
-![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-000?style=flat&logo=nvidia)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000?style=flat&logo=raspberrypi)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
-![IoT](https://img.shields.io/badge/IoT-000?style=flat)
-![Embedded Systems](https://img.shields.io/badge/Embedded-000?style=flat)
-
-### Data & Tools
-![NumPy](https://img.shields.io/badge/NumPy-000?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=flat&logo=pandas)
-![Jupyter](https://img.shields.io/badge/Jupyter-000?style=flat&logo=jupyter)
-![Open3D](https://img.shields.io/badge/Open3D-000?style=flat)
-![ROS](https://img.shields.io/badge/ROS-000?style=flat)
-
-</div>
-
-## 🧠 Engineering Mindset
-
-```bash
-> decompose(system)
-> model(dynamics)
-> optimize(constraints)
-> validate(data)
-> deploy(scale)
-```
-
----
-
-## 🏆 Recognition
-
-* 🎓 Erasmus Mundus Scholarship (European Commission) 
-* 🇯🇵 METI Japan Internship (Top global selection) 
-* 🏅 FAST Sustainability Award 
-* 🇦🇺 Australian Govt Research Grant 
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abubakar17&theme=dark&hide_border=true">
-</p>
-
----
-
-<pre>
-Design systems. Not scripts.
-</pre>
-
-
-<!--
-**Abubakar17/Abubakar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Erasmus Mundus Scholarship (European Commission) · METI Japan Internship · FAST Sustainability Award · Australian Government research grant
